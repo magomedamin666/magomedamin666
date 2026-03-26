@@ -6,18 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Магомед-Амин!</h1>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/@inggush_06" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/inggmuslim_06" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
+<h1 align="center">Привет 👋 Меня зовут Магомед-Амин!</h1>
 
 ###
 
@@ -27,12 +16,23 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👨‍💻 Обо мне</h3>
 
 ###
 
-<p align="left">Я только начинаю свой путь в IT. Свой старт я начал с курса «Код будущего» , который дал мне уверенность в основах программирования. После этого я успешно прошёл курс Stepik — Программирование на Python , а сейчас продолжаю обучение на курсе Яндекс.Лицея — Основы программирования на Python.
-Также имею базовые знания в SQL и стремлюсь развиваться в области разработки и анализа данных.<br><br>- 🔭 Участвовал в Хакатоне МФТИ.<br>- 📚 Завершил курсы по Pythone!<br>- ⚡ Являюсь студентом на курсе Основы программирования на Python Яндекс.Лицея.</p>
+<p align="left">
+Я backend разработчик на Python уровня Middle.<br><br>
+
+Специализируюсь на разработке серверной логики, REST API и работе с базами данных. 
+Имею практический опыт проектирования и реализации backend-сервисов, включая обработку данных, бизнес-логику и интеграции.<br><br>
+
+Работаю с Python, SQL и PostgreSQL. Понимаю принципы построения масштабируемых и поддерживаемых систем, уделяю внимание качеству кода, архитектуре и производительности.<br><br>
+
+- 🚀 Разрабатываю backend-сервисы и API  
+- 🗄 Работаю с PostgreSQL и SQL  
+- ⚙️ Проектирую архитектуру приложений  
+- 📈 Постоянно развиваюсь в backend-разработке и системном дизайне  
+</p>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥 Моя статистика :</h3>
 
 ###
 
